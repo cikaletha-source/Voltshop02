@@ -14,7 +14,7 @@ window.PRODUK = [
   // CONTOH (hapus tanda // di depan tiap baris untuk memakainya, atau salin lalu ganti isinya):
   // {
   //   kode: "SCR-001",
-  //   nama: "Nama Produk",
+  //   nama: "serum series 20ml",
   //   harga: 30000,
   //   link: "https://shopee.co.id/link-produk-anda",
   //   foto: "foto/scr-001.jpg"
